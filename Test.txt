@@ -4,4 +4,9 @@ Ovo je izmena fajla test.txt za branshu test-gale
 Ovo je izmena fajla test.txt za branshu test-gale nova
 =======
 RRRRRRRRR 10/09/2018
+<<<<<<< HEAD
 >>>>>>> cc0dca075fece11caf0ad9ff129df74dee0f3367
+=======
+
+gggggggg 10/09/2018
+>>>>>>> ce6c99848587ec2e06e932ba7e0c00b0a1fdc870
